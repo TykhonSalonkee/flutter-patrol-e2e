@@ -25,3 +25,7 @@
 - `export PATH=$PATH:$ANDROID_HOME/build-tools/35.0.0`
 - `export PATH=$PATH:$ANDROID_HOME/platform-tools`
 - `export PATH=$PATH:$ANDROID_HOME/emulator`
+
+## Download [Xcode](https://apps.apple.com/lu/app/xcode/id497799835?mt=12)
+
+1. Verify installation by running `xcode-select -v`
