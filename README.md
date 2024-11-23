@@ -43,3 +43,9 @@
 
 - run `flutter doctor`
 - run `patrol doctor`
+
+## How to find devices
+
+- android `adb devices`
+- ios `xcrun simctl list devices`
+
