@@ -1,9 +1,0 @@
-app_name: "test_app"
-package_name:
-  android: "com.example.test_app"
-  ios: "com.example.testApp"
-devices:
-  android:
-    - emulator-5554
-  ios:
-    - iPhone 16 Pro Max (A83DC00F-6F78-4B7A-B242-59FF74ED7550)
