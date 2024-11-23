@@ -7,17 +7,21 @@
 - `open ~/.zshrc`
 - `export PATH=$HOME/***your-path***/flutter/bin:$PATH`
 - `source ~/.zshrc`
+- check by running `flutter --version`
 
 ## Download [Android Studio](https://developer.android.com/studio)
 
 1. Go to Settings - SDK Manager
 
-- Install SDK platform
-- Install SDK tool
+- install SDK platform
+- install SDK build-tool
+- install SDK command-line tool
+- install Android emulator
+- install Android SDK platform tools
 
 2. Go to Device Manager
 
-- Create virtual device
+- create virtual device
 
 3. Add SDK to your `PATH`
 
@@ -28,4 +32,14 @@
 
 ## Download [Xcode](https://apps.apple.com/lu/app/xcode/id497799835?mt=12)
 
-1. Verify installation by running `xcode-select -v`
+- check by running `xcode-select -v`
+
+## Download Patrol CLI
+
+- `dart pub global activate patrol_cli`
+- check by running `patrol --version`
+
+## Env check
+
+- run `flutter doctor`
+- run `patrol doctor`
